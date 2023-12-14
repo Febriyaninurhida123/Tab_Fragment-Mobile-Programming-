@@ -1353,3 +1353,7 @@ public class VPAdapter extends FragmentPagerAdapter {
 ```
 ## Output
 
+
+https://github.com/Febriyaninurhida123/Tab_Fragment-Mobile-Programming-/assets/90132092/247b1a35-82fc-443b-b801-2ec3aded6b1b
+
+
